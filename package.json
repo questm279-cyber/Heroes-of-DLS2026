@@ -1,0 +1,13 @@
+{
+  "name": "dls-whatsapp-bot",
+  "version": "2.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.0.0"
+  }
+}
